@@ -1,0 +1,145 @@
+,DESCRIPTION,Minimum,Maximum,Mean
+0,admission to orthopedic department,516.65,516.65,516.6499999999999
+1,admission to trauma surgery department,516.65,516.65,516.65
+2,allergy screening test,516.65,516.65,516.6500000000007
+3,alpha-fetoprotein test,1058.17,4028.87,2377.0802684563746
+4,ankle x-ray,516.65,516.65,516.6499999999997
+5,antenatal rhd antibody screening,1350.74,3480.07,2277.791666666666
+6,appendectomy,11790.45,23466.43,16732.693333333333
+7,asthma screening,516.65,516.65,516.6499999999999
+8,augmentation of labor,2621.12,7471.49,4613.1123333333335
+9,auscultation of the fetal heart,2813.21,10809.06,6371.9916487985265
+10,bilateral tubal ligation,4267.34,15470.05,9275.989230769232
+11,biopsy of breast (procedure),516.65,516.65,516.6499999999999
+12,biopsy of colon,8943.91,17720.04,12236.903333333335
+13,biopsy of prostate,516.65,516.65,516.65
+14,blood typing  rh typing,1059.66,4071.8,2406.538273615633
+15,bone density scan (procedure),6134.98,18169.9,11567.13836363636
+16,bone immobilization,516.65,516.65,516.6500000000009
+17,brief general examination (procedure),516.65,516.65,516.6500000000009
+18,catheter ablation of tissue of heart,5443.14,19043.11,11155.987293233078
+19,cesarean section,5609.01,15791.19,10672.642380952379
+20,chemotherapy (procedure),516.65,516.65,516.6500000000009
+21,chest x-ray,4322.87,13305.77,9186.499411764706
+22,childbirth,516.65,516.65,516.6499999999978
+23,chlamydia antigen test,1189.49,3988.44,2414.3675895765477
+24,clavicle x-ray,516.65,516.65,516.6499999999997
+25,cognitive and behavioral therapy,5858.2,20357.52,11956.90590225564
+26,colonoscopy,6122.15,23999.38,13877.488899430742
+27,combined chemotherapy and radiation therapy (procedure),6370.23,24437.49,14294.174580152681
+28,computed tomography of chest and abdomen,6025.17,17325.98,10525.413333333334
+29,construction of diverting colostomy,48862.33,48862.33,48862.33
+30,coronary artery bypass grafting,29033.05,69960.71,50016.421818181814
+31,counseling for termination of pregnancy,516.65,516.65,516.6500000000009
+32,cytopathology procedure  preparation of smear  genital source,1070.28,4058.46,2430.766449511401
+33,cytopathology procedure  preparation of smear  genital source (procedure),1322.53,3827.13,2472.467899159663
+34,depression screening,516.65,516.65,516.649999999996
+35,diagnostic fiberoptic bronchoscopy (procedure),10893.6,11809.54,11351.57
+36,digital examination of rectum,516.65,516.65,516.6500000000005
+37,echocardiography (procedure),527.0,1876.9,1231.1498529411765
+38,electrical cardioversion,14085.51,52909.5,31721.33783893989
+39,epidural anesthesia,1085.75,3936.42,2522.973809523809
+40,episiotomy,2982.68,10202.85,6524.015352112676
+41,evaluation of uterine fundal height,2781.82,10732.55,6302.027138632179
+42,excision of axillary lymph node (procedure),516.65,516.65,516.65
+43,excision of breast tissue (procedure),516.65,516.65,516.65
+44,excision of fallopian tube and surgical removal of ectopic pregnancy,5845.19,12106.89,8788.221428571429
+45,excision of sentinel lymph node (procedure),516.65,516.65,516.65
+46,extraction of wisdom tooth,7355.93,22316.18,14375.066896551718
+47,fetal anatomy study,516.65,516.65,516.6499999999971
+48,fine needle aspiration biopsy of lung (procedure),12236.49,25477.9,18187.938
+49,gonorrhea infection test,1103.85,3862.81,2382.5736156351777
+50,hearing examination (procedure),516.65,516.65,516.6499999999968
+51,hemoglobin / hematocrit / platelet count,1096.71,4073.88,2400.237524916944
+52,hepatitis b surface antigen measurement,1066.3,3974.27,2382.7908469055387
+53,hepatitis c antibody test,1216.41,4008.01,2404.300912052116
+54,high resolution computed tomography of chest without contrast (procedure),516.65,516.65,516.6499999999968
+55,human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure),516.65,516.65,516.6499999999999
+56,human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure),516.65,516.65,516.6499999999999
+57,human immunodeficiency virus antigen test,1078.56,4015.98,2441.8964169381093
+58,induced termination of pregnancy,5768.64,16976.58,10900.126363636364
+59,information gathering (procedure),516.65,516.65,516.6500000000009
+60,injection of adrenaline,1634.18,4474.51,3161.2578947368424
+61,injection of tetanus antitoxin,1446.29,4800.3,2803.9934210526317
+62,insertion of biventricular implantable cardioverter defibrillator,13939.19,52043.2,30424.97125000001
+63,insertion of intrauterine contraceptive device,5657.19,17078.47,10899.678299319725
+64,insertion of subcutaneous contraceptive,5818.85,17582.54,11173.610265486728
+65,instrumental delivery,4374.78,11892.72,7482.434117647057
+66,intramuscular injection,1384.16,5201.03,3088.656646525681
+67,intravenous blood transfusion of packed cells (procedure),516.65,516.65,516.65
+68,intravenous injection (procedure),516.65,516.65,516.65
+69,knee x-ray,516.65,516.65,516.6499999999997
+70,lumpectomy of breast (procedure),516.65,516.65,516.65
+71,magnetic resonance imaging for measurement of brain volume (procedure),8464.77,20130.26,13657.557999999995
+72,magnetic resonance imaging of breast (procedure),516.65,516.65,516.65
+73,mammogram - symptomatic (procedure),516.65,516.65,516.65
+74,mammography (procedure),516.65,516.65,516.6500000000005
+75,manual pelvic examination (procedure),516.65,516.65,516.650000000001
+76,measurement of varicella-zoster virus antibody,1080.19,4121.34,2375.0474267101
+77,measurement of respiratory function (procedure),516.65,516.65,516.6499999999971
+78,medical induction of labor,2581.83,7003.11,4597.9175
+79,medication reconciliation (procedure),262.73,1022.0,603.2591139914764
+80,methotrexate injection into tubal pregnancy,1893.93,4227.0,2779.2183333333337
+81,nasal sinus endoscopy (procedure),4427.7,10059.76,7162.903333333333
+82,partial resection of colon,15182.93,46684.6,32344.84928571428
+83,pelvis x-ray,516.65,516.65,516.65
+84,percutaneous coronary intervention,11465.99,39235.79,25473.045454545456
+85,percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,11947.48,35206.47,23125.152666666654
+86,peripheral blood smear interpretation,516.65,516.65,516.6500000000009
+87,physical exam following abortion,516.65,516.65,516.6500000000009
+88,physical examination,516.65,516.65,516.6500000000009
+89,physical examination following birth,516.65,516.65,516.6499999999971
+90,physical examination of mother,516.65,516.65,516.649999999997
+91,plain chest x-ray,4532.44,15452.03,9458.650163934431
+92,plain chest x-ray (procedure),4092.92,15071.24,8741.047846153848
+93,pregnancy termination care,516.65,516.65,516.6500000000009
+94,premature birth of newborn,516.65,516.65,516.6499999999999
+95,prostatectomy,516.65,516.65,516.6499999999999
+96,pulmonary rehabilitation (regime/therapy),516.65,516.65,516.6500000000009
+97,radiation oncology and/or radiotherapy (procedure),516.65,516.65,516.6499999999999
+98,radiation therapy care (regime/therapy),516.65,516.65,516.6499999999999
+99,rectal polypectomy,6303.89,20343.73,12206.979870129871
+100,referral to hypertension clinic,516.65,516.65,516.65
+101,removal of intrauterine device,5095.93,16336.58,10630.260119047625
+102,removal of subcutaneous contraceptive,5673.54,16790.48,10923.809402985074
+103,renal dialysis (procedure),516.65,516.65,516.6499999999726
+104,replacement of contraceptive intrauterine device,5507.14,16134.09,11192.690352941174
+105,review of systems (procedure),516.65,516.65,516.6500000000009
+106,rhd passive immunization,1409.37,4972.81,3029.747652173912
+107,rubella screening,1145.02,3950.31,2399.607980456027
+108,screening for chromosomal aneuploidy in prenatal amniotic fluid,1068.6,3989.38,2469.4511726384367
+109,screening for occult blood in feces (procedure),3444.78,11807.21,7376.84049180328
+110,screening mammography (procedure),516.65,516.65,516.65
+111,seizure count cerebral cortex electroencephalogram (eeg),7679.78,20235.89,12982.953939393941
+112,sentinel lymph node biopsy (procedure),516.65,516.65,516.65
+113,skin test for tuberculosis,1192.31,4118.2,2433.406547231269
+114,spirometry (procedure),4551.36,15559.98,9551.45112280701
+115,spontaneous breech delivery,5498.2,6362.71,5930.455
+116,sputum examination (procedure),3507.68,11887.63,7352.18469026549
+117,sputum microscopy (procedure),5475.09,6715.97,6095.530000000002
+118,standard pregnancy test,2896.76,10486.41,6266.949810126589
+119,streptococcus pneumoniae group b antigen test,1098.16,4026.12,2385.4889667896687
+120,subcutaneous immunotherapy,6296.89,24173.56,14393.685998663987
+121,surgical manipulation of joint of knee,11666.57,30143.57,18344.519545454543
+122,surgical manipulation of shoulder joint,16552.13,30585.08,23568.605000000003
+123,suture open wound,4891.93,17426.66,11267.41579234973
+124,syphilis infection test,1160.25,4109.1,2434.7240065146552
+125,teleradiotherapy procedure (procedure),516.65,516.65,516.6500000000009
+126,thoracentesis (procedure),14196.72,27333.44,19679.45833333333
+127,throat culture (procedure),1069.68,4043.28,2441.9954746835433
+128,transplant of lung (procedure),177834.83,187968.69,181757.87
+129,transthoracic echocardiography,516.65,516.65,516.6500000000005
+130,transthoracic three dimensional ultrasonography of heart (procedure),493.92,2046.42,1140.6597345132745
+131,ultrasonography of bilateral breasts (procedure),516.65,516.65,516.65
+132,ultrasound scan for fetal viability,5262.25,18755.82,11162.864071729957
+133,upper arm x-ray,516.65,516.65,516.6500000000002
+134,urine culture,1077.75,3943.58,2399.073778501628
+135,urine protein test,1066.5,4019.24,2449.667915309448
+136,urine screening for glucose,1082.88,4015.06,2424.719898305086
+137,urine screening test for diabetes,1161.33,4039.84,2385.88661237785
+138,vaccination for diphtheria  pertussis  and tetanus,1378.63,5134.33,3119.1041016949125
+139,vasectomy,10491.96,22365.43,16196.968
+140,x-ray or wrist,516.65,516.65,516.6500000000002
+141,negative screening for depression on phq9,516.65,516.65,516.65
+142,positive screening for phq-9,516.65,516.65,516.65
+143,positive screening for depression on phq9,516.65,516.65,516.65

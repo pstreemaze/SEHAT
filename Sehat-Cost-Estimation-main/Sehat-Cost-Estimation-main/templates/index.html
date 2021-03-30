@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Sehat - Complete Healthcare Solution</title>
+    <style>
+        body {
+            margin: 0px;
+        }
+        
+        .main {
+            margin-top: -20px;
+            background-color: #ADEF;
+            font-size: 20px;
+        }
+        
+        ul {
+            dispal: inline-block;
+            padding: 10px 0;
+            list-style: none;
+            text-align: center;
+        }
+        
+        li {
+            display: inline-block;
+            margin: 0 20px;
+        }
+        
+        li::after {
+            content: '';
+            display: block;
+            height: 5px;
+            transition: width 0.7s;
+            border-radius: 20px;
+            background-color: #00203FFF;
+            width: 0px;
+        }
+        
+        li:hover {
+            cursor: pointer;
+        }
+        
+        li:hover::after {
+            width: 70%;
+        }
+    </style>
+    <link rel="shortcut icon" href="favicon.jpg" type="image/x-icon">
+</head>
+
+<body>
+    <div class='main'>
+
+        <ul>
+            <li>
+                <a style="color:coral;" href="https://sehatcompletehealthcare.000webhostapp.com/index.html">Sehat</a></li>
+            <li>
+                <a style="color:coral;" href="https://sehatcompletehealthcare.000webhostapp.com/about.html">About</a></li>
+            <li>
+                <a style="color:coral;" href="https://sehatcompletehealthcare.000webhostapp.com/contact.html">Contact</a></li>
+
+        </ul>
+    </div>
+
+    <h1 align=" center ">Sehat - Cost Estimation Predictor</h1>
+    <br><br>
+    <!-- Main Input For Receiving Query to our ML -->
+    <form align="center" action="{{ url_for( 'predict')}}" method="post">
+
+        <input type="text " name="bc" placeholder="Entet the disease" required="required" />
+        <br><br><br>
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict The Cost</button>
+    </form>
+    <br>
+    <br>
+    <br>
+    <h2 align="center">{{ prediction_text }}</h2>
+    <center>
+        <a class="navbar-brand" href="# ">
+            <img src="static/favicon.jpg" alt=" " width="150">
+        </a>
+    </center>
+    </div>
+
+
+</body>
+
+</html>
