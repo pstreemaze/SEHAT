@@ -1,6 +1,6 @@
 # Sehat Cost Estimation Model
 
-It is designed to predict the cost for many diseases from the database provided from Optum for Stratethon-2nd season. This application is integrated inside the website of Sehat. 
+It is designed to predict the cost for many diseases from the database. This application is integrated inside the website of Sehat. 
 
 ## Steps to predict the cost:-
 Step1. Click on cost prediction on Sehat website.
